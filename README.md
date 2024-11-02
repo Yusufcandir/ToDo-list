@@ -19,7 +19,7 @@ This project is a RESTful API for managing a To-Do list within a SaaS applicatio
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Yusufcandir/ToDo-list
+    https://github.com/Yusufcandir/ToDo-list.git
     cd todo-list
     ```
 
